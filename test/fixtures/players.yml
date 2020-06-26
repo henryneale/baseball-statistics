@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  avg: 1.5
+  hr: 1
+  rbi: 1
+  runs: 1
+  sb: 1
+  ops: 1.5
+
+two:
+  name: MyString
+  avg: 1.5
+  hr: 1
+  rbi: 1
+  runs: 1
+  sb: 1
+  ops: 1.5
