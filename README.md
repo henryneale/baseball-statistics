@@ -1,24 +1,3 @@
-# README
+# Baseball Statistics App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This Ruby on Rails and JavaScript web application parses baseball statistics XML files and displays the data in a sortable table.
